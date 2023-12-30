@@ -17,7 +17,8 @@ int main () {
      float a, b, c;
      
      cout << "\n\tIntrodusca 3 numeros enteros, positivos y en orden ascendente\n";
-     
+     cout << "(empiece a partir del numero 2)\n";
+    
      cout << "\ta="; cin >> a;
      cout << "\tb="; cin >> b;
      cout << "\tc="; cin >> c;
